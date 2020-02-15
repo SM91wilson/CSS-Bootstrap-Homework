@@ -1,0 +1,18 @@
+#footer {
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+
+}
+nav {
+    background-color: rgb(150, 137, 137);
+}
+body {
+    background-color: rgb(210, 210, 221);
+}
+
+.portfolio  {
+    background-image: url(https://www.digitalpharmacist.com/wp-content/uploads/2018/08/Trivia.jpg);
+    height: 200px;
+    width: 100%;
+}
